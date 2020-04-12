@@ -1,7 +1,6 @@
 # DB
 
-DB is a simple but powerful database toolkit. DB is a fluent SQL builder, database abstraction layer, cache manager,
-query statistics generator, and micro-ORM all rolled into a single class file.
+DB is a simple database toolkit.
 
 ## Building SQL
 

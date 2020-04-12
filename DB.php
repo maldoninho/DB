@@ -1,8 +1,10 @@
 <?php
+
+namespace Maldoninho\DB;
+
 /**
- * DB: A simple database toolkit.
+ * DB is a simple database toolkit.
  *
- * @copyright Copyright (c) 2011, Mike Cao <mike@mikecao.com>
  * @license   MIT, http://www.opensource.org/licenses/mit-license.php
  */
 class DB {
