@@ -10,7 +10,7 @@
             "email": "maldoninho@live.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.1"
     }
